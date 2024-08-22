@@ -10,4 +10,6 @@ Currently, two official plugins are available:
 -  ![Login page](https://github.com/22sanjana003/iNotebook/blob/main/login.png?raw=true)
 -  ![SignUp page](https://github.com/22sanjana003/iNotebook/blob/main/signup.png?raw=true)
 -  ![Home page](https://github.com/22sanjana003/iNotebook/blob/main/home.png?raw=true)
--  ![Edit Note page](https://github.com/22sanjana003/iNotebook/blob/main/editNote.png?raw=true)
+-   ![Add Note](https://github.com/22sanjana003/iNotebook/blob/main/addNote.png?raw=true)
+-   ![Delete Note](https://github.com/22sanjana003/iNotebook/blob/main/deleteNote.png?raw=true)
+-  ![Edit Note](https://github.com/22sanjana003/iNotebook/blob/main/editNote.png?raw=true)
